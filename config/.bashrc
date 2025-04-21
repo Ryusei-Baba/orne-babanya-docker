@@ -122,6 +122,7 @@ echo よろろすおねがいするます
 export PATH=/usr/local/cuda-11.7/bin:$PATH
 export LD_LIBRARY_PATH=/usr/local/cuda-11.7/lib64:$LD_LIBRARY_PATH
 export TURTLEBOT3_MODEL=burger
+export PATH=/opt/cmake-3.22/bin:${PATH}
 
 # エイリアス
 alias bash='source ~/.bashrc'
